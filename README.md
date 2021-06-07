@@ -1,2 +1,2 @@
 # DummyProject
-Testproject zu Lernzwecken
+Testprojekt zu Lernzwecken
